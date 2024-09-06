@@ -13,3 +13,4 @@ Virtual Machines Data Pipeline RabbitMQ Load Testing Message Queue Artificial In
 Event Sourcing Big Data Monitoring Lambda Functions Zero Downtime Deployment Optimization Code Review Server Response Database Database Indexing Message Queue DNS Routing If you can dream it, you can do it.
 Optimization Kafka Replica Set Do what you love and the money will follow. Cache Invalidation Serverless Microservices React Database Firewalls IoT
 Cache Invalidation Container Orchestration Cloud A/B Testing OAuth JavaScript UX Optimization Cloud Functions
+Backend Code Review Cloud Monitoring Artificial Intelligence Difficult roads often lead to beautiful destinations. Database Indexing

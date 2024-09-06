@@ -10,3 +10,4 @@ Act as if what you do makes a difference. It does. Simplicity is the ultimate so
 Docker Lambda Functions Python Container Orchestration Testing Code Review Message Queue DevOps IoT Edge Computing Data Pipeline Don't be afraid to give up the good to go for the great.
 Load Balancing Backend Success is how high you bounce when you hit bottom. Success doesn’t just find you. You have to go out and get it. Kubernetes
 Quantum Computing To be the best, you must be able to handle the worst. Success usually comes to those who are too busy to be looking for it. GraphQL Parallel Processing Firewalls Framework Difficult roads often lead to beautiful destinations. Data Pipeline WebSockets
+Deployment Monitoring Framework NLP Distributed Systems Replica Set Blockchain Big Data Cloud Data Science Multi-threading

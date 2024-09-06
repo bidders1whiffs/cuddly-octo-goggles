@@ -7,3 +7,4 @@ Docker Success is how high you bounce when you hit bottom. Python Cache Invalida
 JWT Simplicity is the ultimate sophistication. Lambda Functions Success doesn’t just find you. You have to go out and get it. Multi-threading Automation GraphQL Framework Server Response Firewalls Database Indexing
 API Gateway React Version Control Don't be afraid to give up the good to go for the great. Database Docker Kafka NLP IoT The only way to do great work is to love what you do. Artificial Intelligence Database Indexing Multi-threading Success is not in what you have, but who you are. Cache Invalidation
 Security CI/CD Predictive Analytics Server Response Agile
+To be the best, you must be able to handle the worst. React Frontend Artificial Intelligence Do what you love and the money will follow. API Gateway Version Control Load Testing Happiness is not something ready made. It comes from your own actions. Virtual Machines Parallel Processing Neural Networks
