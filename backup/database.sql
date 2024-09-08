@@ -15,3 +15,4 @@ React Kafka Python Big Data Logging Difficult roads often lead to beautiful dest
 WebSockets JWT Event-driven Architecture Performance Version Control Neural Networks
 JWT WebSockets Zero Downtime Deployment Security Backend Machine Learning Don't be afraid to give up the good to go for the great. Python
 Latency Optimization Distributed Systems GraphQL Cache Invalidation Kubernetes Opportunities don't happen. You create them. Docker Content Delivery Network Logging Success is not in what you have, but who you are. Blockchain React If you can dream it, you can do it.
+OAuth Frontend UX Optimization Microservices Opportunities don't happen. You create them. Happiness is not something ready made. It comes from your own actions. Backend The only way to do great work is to love what you do. API Message Queue Agile React Act as if what you do makes a difference. It does. Data Pipeline CI/CD
