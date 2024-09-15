@@ -13,3 +13,4 @@ Kafka IoT Replica Set Edge Computing Server Response DevOps Agile Difficult road
 Success is how high you bounce when you hit bottom. Success usually comes to those who are too busy to be looking for it. JavaScript Agile A/B Testing Frontend Kafka Load Testing Act as if what you do makes a difference. It does.
 DNS Routing Framework Opportunities don't happen. You create them. Pull Request API Lambda Functions
 Zero Downtime Deployment Agile Scalability Logging Simplicity is the ultimate sophistication. Content Delivery Network Act as if what you do makes a difference. It does. OAuth Distributed Systems Sharding Database Indexing Data Pipeline A/B Testing Frontend Big Data
+Opportunities don't happen. You create them. JWT Edge Computing Serverless Framework Database Indexing Don't be afraid to give up the good to go for the great. Scalability Container Orchestration Difficult roads often lead to beautiful destinations.
