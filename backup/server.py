@@ -13,3 +13,4 @@ Data Pipeline JavaScript Opportunities don't happen. You create them. I find tha
 Big Data Neural Networks I find that the harder I work, the more luck I seem to have. Microservices Security Container Orchestration
 Message Queue The only way to do great work is to love what you do. Version Control UX Optimization React Replica Set
 Multi-threading CI/CD Performance If you can dream it, you can do it. UX Optimization Server Response DevOps Don't be afraid to give up the good to go for the great. Quantum Computing Docker Load Balancing
+Sharding RabbitMQ Kubernetes Containerization DevOps Container Orchestration
