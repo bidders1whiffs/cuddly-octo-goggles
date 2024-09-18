@@ -14,3 +14,4 @@ Testing If you can dream it, you can do it. Lambda Functions Database Indexing D
 React Kafka Python Big Data Logging Difficult roads often lead to beautiful destinations. Performance API WebSockets Success doesn’t just find you. You have to go out and get it.
 WebSockets JWT Event-driven Architecture Performance Version Control Neural Networks
 JWT WebSockets Zero Downtime Deployment Security Backend Machine Learning Don't be afraid to give up the good to go for the great. Python
+Latency Optimization Distributed Systems GraphQL Cache Invalidation Kubernetes Opportunities don't happen. You create them. Docker Content Delivery Network Logging Success is not in what you have, but who you are. Blockchain React If you can dream it, you can do it.
