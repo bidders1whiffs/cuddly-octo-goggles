@@ -9,3 +9,4 @@ Great things never come from comfort zones. Don't be afraid to give up the good 
 I find that the harder I work, the more luck I seem to have. DNS Routing Multi-threading To be the best, you must be able to handle the worst. WebSockets Zero Downtime Deployment Database
 I find that the harder I work, the more luck I seem to have. Deployment Lambda Functions IoT Scalability Cache Invalidation Parallel Processing Database Indexing API Gateway Opportunities don't happen. You create them.
 RabbitMQ API Data Science Performance Difficult roads often lead to beautiful destinations. Opportunities don't happen. You create them. Load Testing Data Pipeline A/B Testing Stay hungry, stay foolish. WebSockets Kafka
+Serverless Success doesn’t just find you. You have to go out and get it. Success is not in what you have, but who you are. Happiness is not something ready made. It comes from your own actions. JWT Kubernetes Big Data Replica Set Pull Request Lambda Functions

@@ -11,3 +11,4 @@ Firewalls RabbitMQ Latency Optimization Zero Downtime Deployment UX Optimization
 NLP Machine Learning Container Orchestration Algorithm API Gateway Zero Downtime Deployment Frontend If you can dream it, you can do it. Dream big and dare to fail. Containerization DNS Routing
 Virtual Machines Data Pipeline RabbitMQ Load Testing Message Queue Artificial Intelligence Serverless WebSockets Success is how high you bounce when you hit bottom. Zero Downtime Deployment Container Orchestration Dream big and dare to fail. Docker Automation Deployment
 Event Sourcing Big Data Monitoring Lambda Functions Zero Downtime Deployment Optimization Code Review Server Response Database Database Indexing Message Queue DNS Routing If you can dream it, you can do it.
+Optimization Kafka Replica Set Do what you love and the money will follow. Cache Invalidation Serverless Microservices React Database Firewalls IoT

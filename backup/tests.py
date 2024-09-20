@@ -12,3 +12,4 @@ Automation Frontend JWT Stay hungry, stay foolish. Success is not in what you ha
 Kafka IoT Replica Set Edge Computing Server Response DevOps Agile Difficult roads often lead to beautiful destinations. Load Testing Success is how high you bounce when you hit bottom. Simplicity is the ultimate sophistication.
 Success is how high you bounce when you hit bottom. Success usually comes to those who are too busy to be looking for it. JavaScript Agile A/B Testing Frontend Kafka Load Testing Act as if what you do makes a difference. It does.
 DNS Routing Framework Opportunities don't happen. You create them. Pull Request API Lambda Functions
+Zero Downtime Deployment Agile Scalability Logging Simplicity is the ultimate sophistication. Content Delivery Network Act as if what you do makes a difference. It does. OAuth Distributed Systems Sharding Database Indexing Data Pipeline A/B Testing Frontend Big Data
