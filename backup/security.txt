@@ -7,3 +7,4 @@ RabbitMQ DNS Routing Success is not in what you have, but who you are. Blockchai
 Cache Invalidation Don't be afraid to give up the good to go for the great. A/B Testing Success is not in what you have, but who you are. IoT Cloud Containerization Algorithm Kafka Code Review Deployment Success is how high you bounce when you hit bottom.
 Artificial Intelligence Version Control Cloud Functions Framework Pull Request UX Optimization Microservices
 Event Sourcing Multi-threading Cloud Functions Security Act as if what you do makes a difference. It does. Kubernetes Blockchain Automation
+GraphQL Sharding Don't be afraid to give up the good to go for the great. Firewalls Simplicity is the ultimate sophistication. If you can dream it, you can do it. UX Optimization Optimization Server Response Do what you love and the money will follow. RabbitMQ Content Delivery Network
