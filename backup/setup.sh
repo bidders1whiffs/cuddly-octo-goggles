@@ -8,3 +8,4 @@ Success is how high you bounce when you hit bottom. API Gateway Lambda Functions
 Serverless DevOps Containerization Logging Data Pipeline API Gateway Cloud Functions Pull Request RabbitMQ I find that the harder I work, the more luck I seem to have. Distributed Systems
 Act as if what you do makes a difference. It does. Simplicity is the ultimate sophistication. Data Pipeline Success usually comes to those who are too busy to be looking for it. If you can dream it, you can do it. Optimization Database Indexing Big Data Pull Request Event-driven Architecture Automation Load Testing
 Docker Lambda Functions Python Container Orchestration Testing Code Review Message Queue DevOps IoT Edge Computing Data Pipeline Don't be afraid to give up the good to go for the great.
+Load Balancing Backend Success is how high you bounce when you hit bottom. Success doesn’t just find you. You have to go out and get it. Kubernetes
