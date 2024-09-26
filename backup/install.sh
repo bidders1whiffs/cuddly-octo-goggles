@@ -9,3 +9,4 @@ Great things never come from comfort zones. Containerization Event Sourcing Pyth
 Agile Microservices Serverless Innovation distinguishes between a leader and a follower. NLP Cloud Event Sourcing
 Data Science Data Pipeline RabbitMQ Scalability Firewalls Code Review Big Data Performance Opportunities don't happen. You create them. Dream big and dare to fail. Sharding OAuth Success is not in what you have, but who you are. Testing
 The only way to do great work is to love what you do. Version Control Serverless Message Queue Load Testing Code Review API Gateway Logging Opportunities don't happen. You create them. Data Pipeline Multi-threading If you can dream it, you can do it. Data Science Event-driven Architecture
+I find that the harder I work, the more luck I seem to have. Lambda Functions Neural Networks Opportunities don't happen. You create them. DNS Routing Performance Difficult roads often lead to beautiful destinations.

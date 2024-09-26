@@ -7,3 +7,4 @@ Cache Invalidation Load Balancing Optimization Containerization Frontend Event S
 Automation Pull Request Latency Optimization Data Science Simplicity is the ultimate sophistication. UX Optimization Success usually comes to those who are too busy to be looking for it.
 Great things never come from comfort zones. Don't be afraid to give up the good to go for the great. Multi-threading JavaScript Database Indexing Simplicity is the ultimate sophistication. Logging I find that the harder I work, the more luck I seem to have. DevOps Version Control
 I find that the harder I work, the more luck I seem to have. DNS Routing Multi-threading To be the best, you must be able to handle the worst. WebSockets Zero Downtime Deployment Database
+I find that the harder I work, the more luck I seem to have. Deployment Lambda Functions IoT Scalability Cache Invalidation Parallel Processing Database Indexing API Gateway Opportunities don't happen. You create them.

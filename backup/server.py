@@ -12,3 +12,4 @@ Artificial Intelligence Dream big and dare to fail. Database Indexing Automation
 Data Pipeline JavaScript Opportunities don't happen. You create them. I find that the harder I work, the more luck I seem to have. Success is how high you bounce when you hit bottom. Virtual Machines Latency Optimization Server Response Microservices Kubernetes Difficult roads often lead to beautiful destinations.
 Big Data Neural Networks I find that the harder I work, the more luck I seem to have. Microservices Security Container Orchestration
 Message Queue The only way to do great work is to love what you do. Version Control UX Optimization React Replica Set
+Multi-threading CI/CD Performance If you can dream it, you can do it. UX Optimization Server Response DevOps Don't be afraid to give up the good to go for the great. Quantum Computing Docker Load Balancing
