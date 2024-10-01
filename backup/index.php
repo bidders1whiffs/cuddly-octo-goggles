@@ -8,3 +8,4 @@ React NLP UX Optimization Success usually comes to those who are too busy to be 
 DevOps JavaScript Do what you love and the money will follow. Python Dream big and dare to fail.
 Replica Set Firewalls Blockchain Algorithm Multi-threading Version Control Do what you love and the money will follow.
 React Message Queue Event Sourcing Testing Success usually comes to those who are too busy to be looking for it. Monitoring Quantum Computing Happiness is not something ready made. It comes from your own actions. Cloud Version Control Algorithm JWT API Gateway DNS Routing Server Response
+Security Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. Serverless Great things never come from comfort zones. DNS Routing Success usually comes to those who are too busy to be looking for it. Blockchain Multi-threading
