@@ -13,3 +13,4 @@ I find that the harder I work, the more luck I seem to have. Containerization Ka
 Testing If you can dream it, you can do it. Lambda Functions Database Indexing Do what you love and the money will follow.
 React Kafka Python Big Data Logging Difficult roads often lead to beautiful destinations. Performance API WebSockets Success doesn’t just find you. You have to go out and get it.
 WebSockets JWT Event-driven Architecture Performance Version Control Neural Networks
+JWT WebSockets Zero Downtime Deployment Security Backend Machine Learning Don't be afraid to give up the good to go for the great. Python

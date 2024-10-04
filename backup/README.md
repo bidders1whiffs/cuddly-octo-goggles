@@ -10,3 +10,4 @@ OAuth DevOps Python Zero Downtime Deployment Quantum Computing To be the best, y
 If you can dream it, you can do it. Python React Docker Automation
 Don't be afraid to give up the good to go for the great. Data Pipeline Pull Request Deployment Edge Computing Success is not in what you have, but who you are. OAuth Testing
 Virtual Machines Frontend Kubernetes If you can dream it, you can do it. Data Science Containerization Happiness is not something ready made. It comes from your own actions. Edge Computing Backend Kafka
+Optimization Security API Gateway Monitoring Sharding Artificial Intelligence Simplicity is the ultimate sophistication. Automation IoT JavaScript DNS Routing To be the best, you must be able to handle the worst. API Cloud Functions Multi-threading
