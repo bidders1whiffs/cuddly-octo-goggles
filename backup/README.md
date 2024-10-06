@@ -9,3 +9,4 @@ OAuth Microservices Load Balancing Database Indexing Firewalls Serverless Scalab
 OAuth DevOps Python Zero Downtime Deployment Quantum Computing To be the best, you must be able to handle the worst. CI/CD Data Science Version Control Data Pipeline Kubernetes
 If you can dream it, you can do it. Python React Docker Automation
 Don't be afraid to give up the good to go for the great. Data Pipeline Pull Request Deployment Edge Computing Success is not in what you have, but who you are. OAuth Testing
+Virtual Machines Frontend Kubernetes If you can dream it, you can do it. Data Science Containerization Happiness is not something ready made. It comes from your own actions. Edge Computing Backend Kafka
