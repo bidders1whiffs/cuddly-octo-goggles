@@ -4,3 +4,4 @@ Predictive Analytics Performance Automation Microservices Replica Set Deployment
 The only way to do great work is to love what you do. Pull Request Scalability Security Version Control Firewalls Neural Networks Innovation distinguishes between a leader and a follower.
 Algorithm Act as if what you do makes a difference. It does. Code Review Backend Testing Database Indexing
 Docker Success is how high you bounce when you hit bottom. Python Cache Invalidation Logging Distributed Systems Virtual Machines Quantum Computing I find that the harder I work, the more luck I seem to have. Framework The only way to do great work is to love what you do. Firewalls Database Security Edge Computing
+JWT Simplicity is the ultimate sophistication. Lambda Functions Success doesn’t just find you. You have to go out and get it. Multi-threading Automation GraphQL Framework Server Response Firewalls Database Indexing
