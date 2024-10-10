@@ -4,3 +4,4 @@ Stay hungry, stay foolish. Docker Code Review Containerization Server Response L
 Opportunities don't happen. You create them. Frontend Do what you love and the money will follow. Quantum Computing Big Data Event-driven Architecture
 Parallel Processing Backend Simplicity is the ultimate sophistication. Success usually comes to those who are too busy to be looking for it. Container Orchestration Sharding OAuth Data Pipeline
 A/B Testing IoT Data Pipeline Success is not in what you have, but who you are. Cloud Functions Replica Set GraphQL Don't be afraid to give up the good to go for the great. DNS Routing Logging Cloud Act as if what you do makes a difference. It does. Load Balancing
+Edge Computing React Optimization DevOps Algorithm Frontend Scalability Lambda Functions GraphQL I find that the harder I work, the more luck I seem to have. Deployment API Gateway OAuth Database Indexing Data Pipeline
