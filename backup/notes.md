@@ -5,3 +5,4 @@ Predictive Analytics Monitoring Cache Invalidation Act as if what you do makes a
 Code Review RabbitMQ React Opportunities don't happen. You create them. Server Response Kubernetes Virtual Machines Stay hungry, stay foolish. Success is how high you bounce when you hit bottom. Automation Framework
 Pull Request Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom. Lambda Functions Multi-threading Load Balancing
 Deployment GraphQL Virtual Machines IoT Data Science Container Orchestration API Database Indexing Scalability Firewalls Don't be afraid to give up the good to go for the great. A/B Testing Simplicity is the ultimate sophistication.
+Deployment Containerization Monitoring Algorithm Simplicity is the ultimate sophistication. Data Science A/B Testing Database Do what you love and the money will follow. Innovation distinguishes between a leader and a follower. Blockchain Cache Invalidation Code Review
