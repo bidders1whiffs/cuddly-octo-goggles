@@ -3,3 +3,4 @@ I find that the harder I work, the more luck I seem to have. Database Indexing M
 Predictive Analytics Performance Automation Microservices Replica Set Deployment Dream big and dare to fail. UX Optimization IoT Latency Optimization Machine Learning Work hard in silence, let your success be your noise.
 The only way to do great work is to love what you do. Pull Request Scalability Security Version Control Firewalls Neural Networks Innovation distinguishes between a leader and a follower.
 Algorithm Act as if what you do makes a difference. It does. Code Review Backend Testing Database Indexing
+Docker Success is how high you bounce when you hit bottom. Python Cache Invalidation Logging Distributed Systems Virtual Machines Quantum Computing I find that the harder I work, the more luck I seem to have. Framework The only way to do great work is to love what you do. Firewalls Database Security Edge Computing
