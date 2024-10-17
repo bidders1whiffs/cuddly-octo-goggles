@@ -7,3 +7,4 @@ JavaScript Happiness is not something ready made. It comes from your own actions
 Framework Pull Request React Dream big and dare to fail. Opportunities don't happen. You create them. Testing Parallel Processing Security Blockchain
 OAuth Microservices Load Balancing Database Indexing Firewalls Serverless Scalability Virtual Machines Backend Data Science Algorithm Cache Invalidation
 OAuth DevOps Python Zero Downtime Deployment Quantum Computing To be the best, you must be able to handle the worst. CI/CD Data Science Version Control Data Pipeline Kubernetes
+If you can dream it, you can do it. Python React Docker Automation
