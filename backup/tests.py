@@ -8,3 +8,4 @@ API Microservices Stay hungry, stay foolish. Database DevOps API Gateway Code Re
 Performance Parallel Processing API Kafka Cloud JWT Security Algorithm Dream big and dare to fail. DevOps The only way to do great work is to love what you do. Success usually comes to those who are too busy to be looking for it.
 DNS Routing Quantum Computing API Neural Networks Success usually comes to those who are too busy to be looking for it. IoT Pull Request Distributed Systems JWT Cloud Replica Set Logging
 Automation Microservices Success usually comes to those who are too busy to be looking for it. Testing Success is how high you bounce when you hit bottom. Optimization WebSockets Content Delivery Network CI/CD RabbitMQ DNS Routing
+Automation Frontend JWT Stay hungry, stay foolish. Success is not in what you have, but who you are. To be the best, you must be able to handle the worst. Blockchain
