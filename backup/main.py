@@ -8,3 +8,4 @@ Security Monitoring Happiness is not something ready made. It comes from your ow
 Predictive Analytics React Latency Optimization Sharding Microservices Success doesn’t just find you. You have to go out and get it. Frontend Parallel Processing Edge Computing Stay hungry, stay foolish. Do what you love and the money will follow. DevOps
 Zero Downtime Deployment Database Indexing Load Testing A/B Testing Optimization Event-driven Architecture NLP UX Optimization Quantum Computing Algorithm Success is how high you bounce when you hit bottom. Docker
 Optimization Deployment Database Container Orchestration IoT Success is how high you bounce when you hit bottom. Frontend Do what you love and the money will follow. JavaScript Machine Learning
+Sharding Do what you love and the money will follow. Success is how high you bounce when you hit bottom. Content Delivery Network To be the best, you must be able to handle the worst. Simplicity is the ultimate sophistication.
