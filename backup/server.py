@@ -10,3 +10,4 @@ Don't be afraid to give up the good to go for the great. Sharding Latency Optimi
 Success doesn’t just find you. You have to go out and get it. Load Balancing Neural Networks Scalability Stay hungry, stay foolish. Python Pull Request Data Science
 Artificial Intelligence Dream big and dare to fail. Database Indexing Automation OAuth Parallel Processing Predictive Analytics Multi-threading Message Queue If you can dream it, you can do it. IoT
 Data Pipeline JavaScript Opportunities don't happen. You create them. I find that the harder I work, the more luck I seem to have. Success is how high you bounce when you hit bottom. Virtual Machines Latency Optimization Server Response Microservices Kubernetes Difficult roads often lead to beautiful destinations.
+Big Data Neural Networks I find that the harder I work, the more luck I seem to have. Microservices Security Container Orchestration

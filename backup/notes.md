@@ -3,3 +3,4 @@ Dream big and dare to fail. Cloud Functions Security Multi-threading Big Data Su
 Work hard in silence, let your success be your noise. Backend Container Orchestration Quantum Computing API Gateway Database Artificial Intelligence OAuth React Stay hungry, stay foolish. Containerization Monitoring Parallel Processing Code Review
 Predictive Analytics Monitoring Cache Invalidation Act as if what you do makes a difference. It does. Event-driven Architecture Artificial Intelligence Version Control Data Pipeline Big Data Message Queue
 Code Review RabbitMQ React Opportunities don't happen. You create them. Server Response Kubernetes Virtual Machines Stay hungry, stay foolish. Success is how high you bounce when you hit bottom. Automation Framework
+Pull Request Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom. Lambda Functions Multi-threading Load Balancing
