@@ -4,3 +4,4 @@ WebSockets Scalability Success is not in what you have, but who you are. JWT Pul
 Message Queue Containerization Parallel Processing RabbitMQ Success is how high you bounce when you hit bottom.
 Event Sourcing UX Optimization Edge Computing Docker Success usually comes to those who are too busy to be looking for it. IoT Act as if what you do makes a difference. It does. Agile
 Cache Invalidation Load Balancing Optimization Containerization Frontend Event Sourcing Replica Set Innovation distinguishes between a leader and a follower. Simplicity is the ultimate sophistication. Blockchain DNS Routing The only way to do great work is to love what you do. Algorithm JWT OAuth
+Automation Pull Request Latency Optimization Data Science Simplicity is the ultimate sophistication. UX Optimization Success usually comes to those who are too busy to be looking for it.
