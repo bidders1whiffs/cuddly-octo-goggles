@@ -12,3 +12,4 @@ DevOps Dream big and dare to fail. React Multi-threading Load Balancing Python O
 I find that the harder I work, the more luck I seem to have. Containerization Kafka Deployment Big Data Python Artificial Intelligence Optimization
 Testing If you can dream it, you can do it. Lambda Functions Database Indexing Do what you love and the money will follow.
 React Kafka Python Big Data Logging Difficult roads often lead to beautiful destinations. Performance API WebSockets Success doesn’t just find you. You have to go out and get it.
+WebSockets JWT Event-driven Architecture Performance Version Control Neural Networks
