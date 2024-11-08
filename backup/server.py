@@ -8,3 +8,4 @@ Container Orchestration Act as if what you do makes a difference. It does. Load 
 Serverless Code Review Algorithm Optimization A/B Testing Content Delivery Network IoT
 Don't be afraid to give up the good to go for the great. Sharding Latency Optimization Serverless OAuth Security
 Success doesn’t just find you. You have to go out and get it. Load Balancing Neural Networks Scalability Stay hungry, stay foolish. Python Pull Request Data Science
+Artificial Intelligence Dream big and dare to fail. Database Indexing Automation OAuth Parallel Processing Predictive Analytics Multi-threading Message Queue If you can dream it, you can do it. IoT
