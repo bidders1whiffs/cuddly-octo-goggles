@@ -4,3 +4,4 @@ CI/CD API Gateway Work hard in silence, let your success be your noise. Database
 API Gateway NLP Distributed Systems A/B Testing Parallel Processing Opportunities don't happen. You create them. GraphQL Success usually comes to those who are too busy to be looking for it. Content Delivery Network OAuth JavaScript
 Sharding React Containerization Latency Optimization Predictive Analytics Content Delivery Network Neural Networks JavaScript
 Dream big and dare to fail. React Server Response Cloud Content Delivery Network Code Review GraphQL Performance
+React NLP UX Optimization Success usually comes to those who are too busy to be looking for it. DNS Routing Success is how high you bounce when you hit bottom. Logging IoT
