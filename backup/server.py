@@ -7,3 +7,4 @@ Quantum Computing Do what you love and the money will follow. Microservices Data
 Container Orchestration Act as if what you do makes a difference. It does. Load Balancing Work hard in silence, let your success be your noise. Cloud JavaScript Happiness is not something ready made. It comes from your own actions. Simplicity is the ultimate sophistication. Serverless Backend
 Serverless Code Review Algorithm Optimization A/B Testing Content Delivery Network IoT
 Don't be afraid to give up the good to go for the great. Sharding Latency Optimization Serverless OAuth Security
+Success doesn’t just find you. You have to go out and get it. Load Balancing Neural Networks Scalability Stay hungry, stay foolish. Python Pull Request Data Science
