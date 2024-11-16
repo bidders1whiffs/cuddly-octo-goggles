@@ -10,3 +10,4 @@ Firewalls API The only way to do great work is to love what you do. Difficult ro
 Monitoring Act as if what you do makes a difference. It does. Success usually comes to those who are too busy to be looking for it. Server Response DevOps Difficult roads often lead to beautiful destinations. IoT Optimization Microservices Happiness is not something ready made. It comes from your own actions. Cloud Functions Serverless Quantum Computing
 DevOps Dream big and dare to fail. React Multi-threading Load Balancing Python OAuth JavaScript Success doesn’t just find you. You have to go out and get it. Testing Machine Learning CI/CD
 I find that the harder I work, the more luck I seem to have. Containerization Kafka Deployment Big Data Python Artificial Intelligence Optimization
+Testing If you can dream it, you can do it. Lambda Functions Database Indexing Do what you love and the money will follow.
