@@ -5,3 +5,4 @@ Containerization Code Review Distributed Systems Data Pipeline API Gateway Succe
 Replica Set Pull Request Success is how high you bounce when you hit bottom. Success usually comes to those who are too busy to be looking for it. Do what you love and the money will follow. Performance Dream big and dare to fail. Machine Learning NLP Latency Optimization Agile Success is not in what you have, but who you are. The only way to do great work is to love what you do.
 JavaScript Happiness is not something ready made. It comes from your own actions. Agile A/B Testing CI/CD
 Framework Pull Request React Dream big and dare to fail. Opportunities don't happen. You create them. Testing Parallel Processing Security Blockchain
+OAuth Microservices Load Balancing Database Indexing Firewalls Serverless Scalability Virtual Machines Backend Data Science Algorithm Cache Invalidation
