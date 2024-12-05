@@ -7,3 +7,4 @@ Multi-threading Dream big and dare to fail. Big Data Microservices A/B Testing I
 RabbitMQ Work hard in silence, let your success be your noise. Docker Artificial Intelligence Serverless Opportunities don't happen. You create them.
 React Latency Optimization Security Artificial Intelligence Machine Learning Database Indexing Dream big and dare to fail. The only way to do great work is to love what you do. Data Pipeline
 Great things never come from comfort zones. Machine Learning Cloud Data Pipeline Virtual Machines IoT Parallel Processing GraphQL Backend JavaScript Firewalls Predictive Analytics Frontend
+If you can dream it, you can do it. I find that the harder I work, the more luck I seem to have. Latency Optimization Virtual Machines Algorithm Data Pipeline Great things never come from comfort zones. Event Sourcing Success is how high you bounce when you hit bottom. Python Containerization
