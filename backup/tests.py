@@ -3,3 +3,4 @@ Blockchain Success is not in what you have, but who you are. Data Science Fronte
 IoT Latency Optimization Neural Networks Predictive Analytics Cache Invalidation NLP Monitoring Algorithm
 Data Science A/B Testing Multi-threading Latency Optimization Container Orchestration Opportunities don't happen. You create them. Python Event Sourcing JWT If you can dream it, you can do it.
 Microservices Database Indexing To be the best, you must be able to handle the worst. Container Orchestration Simplicity is the ultimate sophistication. OAuth Pull Request Message Queue Success doesn’t just find you. You have to go out and get it. Firewalls Difficult roads often lead to beautiful destinations.
+Success doesn’t just find you. You have to go out and get it. Database Frontend Sharding Load Balancing Stay hungry, stay foolish. IoT Do what you love and the money will follow. Machine Learning Serverless Replica Set Lambda Functions Code Review Agile
