@@ -9,3 +9,4 @@ I find that the harder I work, the more luck I seem to have. API DNS Routing Pre
 Automation JWT Work hard in silence, let your success be your noise. Zero Downtime Deployment Database API Gateway
 Firewalls RabbitMQ Latency Optimization Zero Downtime Deployment UX Optimization Frontend Security Kafka Content Delivery Network CI/CD Kubernetes
 NLP Machine Learning Container Orchestration Algorithm API Gateway Zero Downtime Deployment Frontend If you can dream it, you can do it. Dream big and dare to fail. Containerization DNS Routing
+Virtual Machines Data Pipeline RabbitMQ Load Testing Message Queue Artificial Intelligence Serverless WebSockets Success is how high you bounce when you hit bottom. Zero Downtime Deployment Container Orchestration Dream big and dare to fail. Docker Automation Deployment
