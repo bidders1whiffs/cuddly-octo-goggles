@@ -8,3 +8,4 @@ Success is not in what you have, but who you are. Zero Downtime Deployment Monit
 I find that the harder I work, the more luck I seem to have. API DNS Routing Predictive Analytics Testing Data Pipeline Version Control A/B Testing Zero Downtime Deployment Latency Optimization CI/CD Containerization
 Automation JWT Work hard in silence, let your success be your noise. Zero Downtime Deployment Database API Gateway
 Firewalls RabbitMQ Latency Optimization Zero Downtime Deployment UX Optimization Frontend Security Kafka Content Delivery Network CI/CD Kubernetes
+NLP Machine Learning Container Orchestration Algorithm API Gateway Zero Downtime Deployment Frontend If you can dream it, you can do it. Dream big and dare to fail. Containerization DNS Routing
