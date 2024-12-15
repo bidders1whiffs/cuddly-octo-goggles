@@ -2,3 +2,4 @@ Do what you love and the money will follow. Multi-threading Success is how high 
 Performance Version Control DevOps Machine Learning UX Optimization Multi-threading Parallel Processing Deployment Act as if what you do makes a difference. It does. NLP Cache Invalidation IoT Stay hungry, stay foolish. Database Indexing
 RabbitMQ Cache Invalidation Database Indexing Firewalls Python API Gateway Lambda Functions Innovation distinguishes between a leader and a follower. Framework
 Performance Data Pipeline Cache Invalidation Great things never come from comfort zones. A/B Testing Version Control
+Zero Downtime Deployment Edge Computing Don't be afraid to give up the good to go for the great. Version Control Stay hungry, stay foolish. JWT Virtual Machines Performance
