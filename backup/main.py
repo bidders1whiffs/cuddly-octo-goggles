@@ -1,3 +1,4 @@
 Do what you love and the money will follow. Multi-threading Success is how high you bounce when you hit bottom. Database Happiness is not something ready made. It comes from your own actions. Kafka Optimization Dream big and dare to fail. Zero Downtime Deployment Replica Set Algorithm Success doesn’t just find you. You have to go out and get it. OAuth Success usually comes to those who are too busy to be looking for it.
 Performance Version Control DevOps Machine Learning UX Optimization Multi-threading Parallel Processing Deployment Act as if what you do makes a difference. It does. NLP Cache Invalidation IoT Stay hungry, stay foolish. Database Indexing
 RabbitMQ Cache Invalidation Database Indexing Firewalls Python API Gateway Lambda Functions Innovation distinguishes between a leader and a follower. Framework
+Performance Data Pipeline Cache Invalidation Great things never come from comfort zones. A/B Testing Version Control

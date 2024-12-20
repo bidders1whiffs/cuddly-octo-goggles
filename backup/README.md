@@ -2,3 +2,4 @@ Work hard in silence, let your success be your noise. Lambda Functions React Fir
 RabbitMQ Deployment Firewalls Containerization UX Optimization Distributed Systems
 A/B Testing Success is how high you bounce when you hit bottom. Framework Predictive Analytics Blockchain Microservices
 Containerization Code Review Distributed Systems Data Pipeline API Gateway Success usually comes to those who are too busy to be looking for it. Docker The only way to do great work is to love what you do. Do what you love and the money will follow. Success doesn’t just find you. You have to go out and get it.
+Replica Set Pull Request Success is how high you bounce when you hit bottom. Success usually comes to those who are too busy to be looking for it. Do what you love and the money will follow. Performance Dream big and dare to fail. Machine Learning NLP Latency Optimization Agile Success is not in what you have, but who you are. The only way to do great work is to love what you do.
