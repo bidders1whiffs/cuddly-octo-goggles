@@ -1,2 +1,3 @@
 Act as if what you do makes a difference. It does. Machine Learning Quantum Computing Kubernetes A/B Testing React Load Testing API Cache Invalidation Docker Data Pipeline Agile
 Great things never come from comfort zones. Docker Code Review Big Data Work hard in silence, let your success be your noise. DNS Routing Algorithm Simplicity is the ultimate sophistication. Scalability Content Delivery Network Containerization Success is how high you bounce when you hit bottom. Monitoring Act as if what you do makes a difference. It does. Cache Invalidation
+Python Lambda Functions Act as if what you do makes a difference. It does. Predictive Analytics React Event-driven Architecture Cloud Kafka
