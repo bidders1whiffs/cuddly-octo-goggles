@@ -1,3 +1,4 @@
 DevOps Simplicity is the ultimate sophistication. JavaScript Message Queue Load Testing
 Framework Pull Request Content Delivery Network Algorithm Code Review Agile Success is how high you bounce when you hit bottom. Predictive Analytics Logging Container Orchestration Scalability I find that the harder I work, the more luck I seem to have. RabbitMQ Serverless
 Database Success doesn’t just find you. You have to go out and get it. Code Review Firewalls Database Indexing GraphQL Data Science Version Control Containerization API
+Framework Stay hungry, stay foolish. Quantum Computing Innovation distinguishes between a leader and a follower. Cloud Multi-threading Event-driven Architecture Act as if what you do makes a difference. It does. Data Science GraphQL Neural Networks Replica Set If you can dream it, you can do it. WebSockets Algorithm
