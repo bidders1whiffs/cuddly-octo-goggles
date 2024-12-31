@@ -2,3 +2,4 @@ Success doesn’t just find you. You have to go out and get it. I find that the ha
 Difficult roads often lead to beautiful destinations. Latency Optimization Zero Downtime Deployment The only way to do great work is to love what you do. A/B Testing Framework Quantum Computing Security CI/CD Distributed Systems
 CI/CD API Gateway Work hard in silence, let your success be your noise. Database React Act as if what you do makes a difference. It does.
 API Gateway NLP Distributed Systems A/B Testing Parallel Processing Opportunities don't happen. You create them. GraphQL Success usually comes to those who are too busy to be looking for it. Content Delivery Network OAuth JavaScript
+Sharding React Containerization Latency Optimization Predictive Analytics Content Delivery Network Neural Networks JavaScript
