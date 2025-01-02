@@ -4,3 +4,4 @@ Database Cloud Functions Success doesn’t just find you. You have to go out and g
 I find that the harder I work, the more luck I seem to have. Version Control Success is how high you bounce when you hit bottom. Performance API Opportunities don't happen. You create them.
 Database Load Balancing Kafka Machine Learning Serverless Edge Computing Virtual Machines OAuth Event Sourcing
 Multi-threading Dream big and dare to fail. Big Data Microservices A/B Testing Innovation distinguishes between a leader and a follower. The only way to do great work is to love what you do. Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom. Edge Computing API Gateway Do what you love and the money will follow. Don't be afraid to give up the good to go for the great. Framework
+RabbitMQ Work hard in silence, let your success be your noise. Docker Artificial Intelligence Serverless Opportunities don't happen. You create them.

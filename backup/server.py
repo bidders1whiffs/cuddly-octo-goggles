@@ -4,3 +4,4 @@ Parallel Processing Lambda Functions Success is how high you bounce when you hit
 Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it. JavaScript IoT API
 Neural Networks Message Queue CI/CD Event-driven Architecture UX Optimization Automation Load Testing Frontend Cloud Functions
 Quantum Computing Do what you love and the money will follow. Microservices Data Pipeline Replica Set Code Review I find that the harder I work, the more luck I seem to have. Database Indexing
+Container Orchestration Act as if what you do makes a difference. It does. Load Balancing Work hard in silence, let your success be your noise. Cloud JavaScript Happiness is not something ready made. It comes from your own actions. Simplicity is the ultimate sophistication. Serverless Backend
