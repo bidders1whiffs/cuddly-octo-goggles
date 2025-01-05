@@ -1,2 +1,3 @@
 Agile Logging Database Blockchain Version Control Don't be afraid to give up the good to go for the great. Frontend Docker Message Queue Neural Networks I find that the harder I work, the more luck I seem to have. Artificial Intelligence RabbitMQ
 Dream big and dare to fail. Cloud Functions Security Multi-threading Big Data Success doesn’t just find you. You have to go out and get it. RabbitMQ Lambda Functions Backend Server Response
+Work hard in silence, let your success be your noise. Backend Container Orchestration Quantum Computing API Gateway Database Artificial Intelligence OAuth React Stay hungry, stay foolish. Containerization Monitoring Parallel Processing Code Review
