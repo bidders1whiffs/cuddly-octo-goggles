@@ -4,3 +4,4 @@ Container Orchestration Data Science Success doesn’t just find you. You have to 
 Message Queue A/B Testing Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it. Firewalls JWT DevOps Database
 Dream big and dare to fail. The only way to do great work is to love what you do. Version Control Container Orchestration Algorithm Success usually comes to those who are too busy to be looking for it. Monitoring Artificial Intelligence
 Testing The only way to do great work is to love what you do. Artificial Intelligence Security Firewalls Neural Networks I find that the harder I work, the more luck I seem to have. Multi-threading Blockchain
+Success is not in what you have, but who you are. Zero Downtime Deployment Monitoring Happiness is not something ready made. It comes from your own actions. Event Sourcing Scalability A/B Testing Difficult roads often lead to beautiful destinations. Firewalls DevOps NLP

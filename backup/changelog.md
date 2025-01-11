@@ -1,2 +1,3 @@
 Success is how high you bounce when you hit bottom. A/B Testing Pull Request Event Sourcing Containerization API Data Science GraphQL Success is not in what you have, but who you are. Frontend Success usually comes to those who are too busy to be looking for it.
 Innovation distinguishes between a leader and a follower. Container Orchestration Do what you love and the money will follow. Stay hungry, stay foolish. JWT Happiness is not something ready made. It comes from your own actions. Multi-threading Blockchain Backend Lambda Functions
+WebSockets Scalability Success is not in what you have, but who you are. JWT Pull Request Stay hungry, stay foolish. API Gateway Predictive Analytics Blockchain Microservices Event Sourcing GraphQL

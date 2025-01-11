@@ -3,3 +3,4 @@ API Optimization DNS Routing Security Deployment Microservices Success is not in
 Parallel Processing Lambda Functions Success is how high you bounce when you hit bottom. Virtual Machines Monitoring Simplicity is the ultimate sophistication.
 Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it. JavaScript IoT API
 Neural Networks Message Queue CI/CD Event-driven Architecture UX Optimization Automation Load Testing Frontend Cloud Functions
+Quantum Computing Do what you love and the money will follow. Microservices Data Pipeline Replica Set Code Review I find that the harder I work, the more luck I seem to have. Database Indexing
