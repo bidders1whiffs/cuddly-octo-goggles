@@ -1,0 +1,1 @@
+Success is how high you bounce when you hit bottom. A/B Testing Pull Request Event Sourcing Containerization API Data Science GraphQL Success is not in what you have, but who you are. Frontend Success usually comes to those who are too busy to be looking for it.
