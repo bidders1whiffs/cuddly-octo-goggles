@@ -2,3 +2,4 @@ Database Indexing Quantum Computing Server Response Database IoT Success is how 
 Kubernetes DevOps A/B Testing Great things never come from comfort zones. Security Replica Set Dream big and dare to fail. Docker To be the best, you must be able to handle the worst.
 Container Orchestration Data Science Success doesn’t just find you. You have to go out and get it. Difficult roads often lead to beautiful destinations. Security Predictive Analytics Agile JavaScript CI/CD Work hard in silence, let your success be your noise.
 Message Queue A/B Testing Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it. Firewalls JWT DevOps Database
+Dream big and dare to fail. The only way to do great work is to love what you do. Version Control Container Orchestration Algorithm Success usually comes to those who are too busy to be looking for it. Monitoring Artificial Intelligence
